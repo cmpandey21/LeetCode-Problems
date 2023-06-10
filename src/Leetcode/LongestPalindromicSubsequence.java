@@ -32,7 +32,8 @@ public class LongestPalindromicSubsequence {
 	         if(s.charAt(i)==s.charAt(j))
 	         {
 	             count++;
-	         }}
+	         }
+	         }
 
 	     }
 	     
